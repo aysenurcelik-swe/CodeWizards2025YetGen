@@ -1,6 +1,7 @@
 # CodeWizards2025YetGen
-#Core Python 2024
 
-##YetGen Lideri
+## BEN AYSENUR
 
-##Code Wizards ekibi
+### YetGen Lideriyim
+
+< img src = "  " >
